@@ -1,4 +1,4 @@
-//Connects to Both Polar H10 and Arduino Nano 33 ble
+//Connects esp32 to Both Polar H10 and Arduino Nano 33 ble
 //Does not diplay anything other than sensor data on com port to allow for python script to save data to a .csv file
 
 
