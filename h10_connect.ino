@@ -1,3 +1,5 @@
+//Connects esp32 to Polar H10 
+
 #include "BLEDevice.h"
 //#include "BLEScan.h"
 
