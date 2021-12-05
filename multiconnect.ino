@@ -1,3 +1,5 @@
+//Connects to Both Polar H10 and Arduino Nano 33 ble
+
 #include "BLEDevice.h"
 //#include "BLEScan.h"
 
