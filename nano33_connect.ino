@@ -1,3 +1,5 @@
+//Connects esp32 to Arduino Nano 33 ble
+
 #include "BLEDevice.h"
 //#include "BLEScan.h"
 
